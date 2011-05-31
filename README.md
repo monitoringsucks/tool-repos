@@ -14,5 +14,7 @@ Please do not put any actual code in here.
 
 ## Example
 
-  git submodule add https://github.com/user/projectname projectname/repo
-  echo "[link](http://github.com/user/projectname)" > projectname/README.md
+Adding a repo:
+
+  git submodule add https://github.com/username/project_name project_name/repo
+  echo "[link](http://github.com/username/project_name)" > project_name/README.md
