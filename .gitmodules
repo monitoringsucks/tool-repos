@@ -13,3 +13,12 @@
 [submodule "flapjack/repo"]
 	path = flapjack/repo
 	url = https://github.com/auxesis/flapjack.git
+[submodule "clockwork/repo"]
+	path = clockwork/repo
+	url = https://github.com/adamwiggins/clockwork
+[submodule "overwatch/repo"]
+	path = overwatch/repo
+	url = https://github.com/danryan/overwatch
+[submodule "pencil/repo"]
+	path = pencil/repo
+	url = https://github.com/fetep/pencil
