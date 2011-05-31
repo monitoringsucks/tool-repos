@@ -4,9 +4,9 @@ This repository serves as a sort of master repository of various tools that peop
 
 The format for structure should be as follows:
 
-top-level repo -
-                project_name -
-                              README.md (review/information)
-                              git submodule to repo (if appropriate)
+	top-level repo -
+			project_name -
+				      README.md (review/information)
+				      git submodule to repo (if appropriate)
 
 Please do not put any actual code in here.
