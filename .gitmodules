@@ -22,3 +22,6 @@
 [submodule "pencil/repo"]
 	path = pencil/repo
 	url = https://github.com/fetep/pencil
+[submodule "graphite/rpms"]
+	path = graphite/rpms
+	url = https://github.com/dcarley/graphite-rpms
