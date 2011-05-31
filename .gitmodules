@@ -25,3 +25,6 @@
 [submodule "graphite/rpms"]
 	path = graphite/rpms
 	url = https://github.com/dcarley/graphite-rpms
+[submodule "remote_syslog/repo"]
+	path = remote_syslog/repo
+	url = https://github.com/papertrail/remote_syslog
