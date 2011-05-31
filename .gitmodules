@@ -1,0 +1,3 @@
+[submodule "critical/repo"]
+	path = critical/repo
+	url = https://github.com/danielsdeleo/critical.git
