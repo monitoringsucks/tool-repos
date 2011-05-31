@@ -10,3 +10,6 @@
 [submodule "statsd/repo"]
 	path = statsd/repo
 	url = https://github.com/etsy/statsd.git
+[submodule "flapjack/repo"]
+	path = flapjack/repo
+	url = https://github.com/auxesis/flapjack.git
