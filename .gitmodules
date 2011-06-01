@@ -25,3 +25,6 @@
 [submodule "graphite/rpms"]
 	path = graphite/rpms
 	url = https://github.com/dcarley/graphite-rpms
+[submodule "reconnoiter/repo"]
+	path = reconnoiter/repo
+	url = https://github.com/omniti-labs/reconnoiter
