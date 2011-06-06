@@ -31,3 +31,6 @@
 [submodule "logster/repo"]
 	path = logster/repo
 	url = https://github.com/etsy/logster
+[submodule "boomerang/repo"]
+	path = boomerang/repo
+	url = https://github.com/yahoo/boomerang/
