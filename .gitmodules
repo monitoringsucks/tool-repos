@@ -28,3 +28,6 @@
 [submodule "reconnoiter/repo"]
 	path = reconnoiter/repo
 	url = https://github.com/omniti-labs/reconnoiter
+[submodule "logster/repo"]
+	path = logster/repo
+	url = https://github.com/etsy/logster
