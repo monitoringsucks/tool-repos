@@ -37,3 +37,9 @@
 [submodule "naglite2/repo"]
 	path = naglite2/repo
 	url = https://github.com/lozzd/Naglite2
+[submodule "folsom/src"]
+	path = folsom/src
+	url = git://github.com/boundary/folsom.git
+[submodule "metrics/src"]
+	path = metrics/src
+	url = git://github.com/codahale/metrics.git
