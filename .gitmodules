@@ -34,3 +34,6 @@
 [submodule "boomerang/repo"]
 	path = boomerang/repo
 	url = https://github.com/yahoo/boomerang/
+[submodule "naglite2/repo"]
+	path = naglite2/repo
+	url = https://github.com/lozzd/Naglite2
