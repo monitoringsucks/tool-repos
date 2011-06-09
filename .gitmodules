@@ -43,3 +43,6 @@
 [submodule "metrics/src"]
 	path = metrics/src
 	url = git://github.com/codahale/metrics.git
+[submodule "cucumber-nagios/repo"]
+	path = cucumber-nagios/repo
+	url = git://github.com/auxesis/cucumber-nagios.git
