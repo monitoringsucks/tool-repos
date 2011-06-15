@@ -25,6 +25,27 @@
 [submodule "graphite/rpms"]
 	path = graphite/rpms
 	url = https://github.com/dcarley/graphite-rpms
+[submodule "reconnoiter/repo"]
+	path = reconnoiter/repo
+	url = https://github.com/omniti-labs/reconnoiter
+[submodule "logster/repo"]
+	path = logster/repo
+	url = https://github.com/etsy/logster
+[submodule "boomerang/repo"]
+	path = boomerang/repo
+	url = https://github.com/yahoo/boomerang/
+[submodule "naglite2/repo"]
+	path = naglite2/repo
+	url = https://github.com/lozzd/Naglite2
+[submodule "folsom/src"]
+	path = folsom/src
+	url = git://github.com/boundary/folsom.git
+[submodule "metrics/src"]
+	path = metrics/src
+	url = git://github.com/codahale/metrics.git
+[submodule "cucumber-nagios/repo"]
+	path = cucumber-nagios/repo
+	url = git://github.com/auxesis/cucumber-nagios.git
 [submodule "remote_syslog/repo"]
 	path = remote_syslog/repo
 	url = https://github.com/papertrail/remote_syslog
