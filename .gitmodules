@@ -46,3 +46,6 @@
 [submodule "cucumber-nagios/repo"]
 	path = cucumber-nagios/repo
 	url = git://github.com/auxesis/cucumber-nagios.git
+[submodule "etsy-nagios_tools/repo"]
+	path = etsy-nagios_tools/repo
+	url = https://github.com/etsy/nagios_tools.git
