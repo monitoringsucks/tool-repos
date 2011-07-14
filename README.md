@@ -10,3 +10,11 @@ The format for structure should be as follows:
 				      git submodule to repo (if appropriate)
 
 Please do not put any actual code in here.
+
+
+## Example
+
+Adding a repo:
+
+	git submodule add https://github.com/username/project_name project_name/repo
+	echo "[link](http://github.com/username/project_name)" > project_name/README.md

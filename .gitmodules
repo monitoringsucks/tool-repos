@@ -49,3 +49,6 @@
 [submodule "etsy-nagios_tools/repo"]
 	path = etsy-nagios_tools/repo
 	url = https://github.com/etsy/nagios_tools.git
+[submodule "remote_syslog/repo"]
+	path = remote_syslog/repo
+	url = https://github.com/papertrail/remote_syslog
