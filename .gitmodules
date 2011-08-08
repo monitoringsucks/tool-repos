@@ -52,3 +52,6 @@
 [submodule "remote_syslog/repo"]
 	path = remote_syslog/repo
 	url = https://github.com/papertrail/remote_syslog
+[submodule "logstash/repo"]
+	path = logstash/repo
+	url = https://github.com/logstash/logstash
