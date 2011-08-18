@@ -55,3 +55,9 @@
 [submodule "logstash/repo"]
 	path = logstash/repo
 	url = https://github.com/logstash/logstash
+[submodule "porkchop/repo"]
+	path = porkchop/repo
+	url = https://github.com/disqus/porkchop
+[submodule "disqus-nagios-plugins/repo"]
+	path = disqus-nagios-plugins/repo
+	url = https://github.com/disqus/nagios-plugins
