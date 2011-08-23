@@ -1,0 +1,1 @@
+FITB is a tool that automatically polls every port on a list of switches you give it. Simple configuration, precise polling, easy searching and automatic discovery of both new ports and ports that go offline are the goals of FITB. 

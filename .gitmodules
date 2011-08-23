@@ -55,3 +55,6 @@
 [submodule "logstash/repo"]
 	path = logstash/repo
 	url = https://github.com/logstash/logstash
+[submodule "fitb/repo"]
+	path = fitb/repo
+	url = git://github.com/lozzd/FITB.git
