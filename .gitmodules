@@ -58,3 +58,9 @@
 [submodule "fitb/repo"]
 	path = fitb/repo
 	url = git://github.com/lozzd/FITB.git
+[submodule "porkchop/repo"]
+	path = porkchop/repo
+	url = https://github.com/disqus/porkchop
+[submodule "disqus-nagios-plugins/repo"]
+	path = disqus-nagios-plugins/repo
+	url = https://github.com/disqus/nagios-plugins
