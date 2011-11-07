@@ -64,3 +64,6 @@
 [submodule "disqus-nagios-plugins/repo"]
 	path = disqus-nagios-plugins/repo
 	url = https://github.com/disqus/nagios-plugins
+[submodule "nagios-api/repo"]
+	path = nagios-api/repo
+	url = https://github.com/xb95/nagios-api
