@@ -67,3 +67,6 @@
 [submodule "nagios-api/repo"]
 	path = nagios-api/repo
 	url = https://github.com/xb95/nagios-api
+[submodule "extopus/repo"]
+	path = extopus/repo
+	url = https://github.com/oetiker/extopus
