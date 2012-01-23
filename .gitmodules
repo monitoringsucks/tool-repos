@@ -73,3 +73,12 @@
 [submodule "molog/repo"]
 	path = molog/repo
 	url = https://github.com/smetj/molog
+[submodule "graylog2/repo"]
+	path = graylog2/repo
+	url = https://github.com/Graylog2/graylog2-server
+[submodule "cloudkick-plugins/repo"]
+	path = cloudkick-plugins/repo
+	url = https://github.com/cloudkick/agent-plugins
+[submodule "collectd/repo"]
+	path = collectd/repo
+	url = https://github.com/octo/collectd.git
