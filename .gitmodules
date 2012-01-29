@@ -82,3 +82,6 @@
 [submodule "collectd/repo"]
 	path = collectd/repo
 	url = https://github.com/octo/collectd.git
+[submodule "moncli/repo"]
+	path = moncli/repo
+	url = https://github.com/smetj/moncli.git
