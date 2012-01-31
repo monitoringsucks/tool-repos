@@ -85,3 +85,6 @@
 [submodule "moncli/repo"]
 	path = moncli/repo
 	url = https://github.com/smetj/moncli.git
+[submodule "fluentd/repo"]
+	path = fluentd/repo
+	url = https://github.com/fluent/fluentd
