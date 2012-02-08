@@ -85,3 +85,9 @@
 [submodule "moncli/repo"]
 	path = moncli/repo
 	url = https://github.com/smetj/moncli.git
+[submodule "extrememon/extrememon"]
+	path = extrememon/extrememon
+	url = https://github.com/m4rienf/ExtreMon
+[submodule "extrememon/extrememon-Display"]
+	path = extrememon/extrememon-Display
+	url = https://github.com/m4rienf/ExtreMon-Display
