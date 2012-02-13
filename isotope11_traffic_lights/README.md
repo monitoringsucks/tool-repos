@@ -13,5 +13,3 @@ the light turns red to provide a visual notification of a problem. While Jenkins
 is running a test suite on any project, the yellow light will flash to let us
 know of the activity.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/3T5fEV5YHYo" frameborder="0" allowfullscreen></iframe>
-
