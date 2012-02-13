@@ -19,3 +19,5 @@ Adding a repo:
 	mkdir project_name
 	git submodule add https://github.com/username/project_name project_name/repo
 	echo "[link](http://github.com/username/project_name)" > project_name/README.md
+	git add project_name
+	git commit -am 'added project_name'
