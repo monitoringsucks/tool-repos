@@ -91,3 +91,6 @@
 [submodule "extrememon/extrememon-Display"]
 	path = extrememon/extrememon-Display
 	url = https://github.com/m4rienf/ExtreMon-Display
+[submodule "reimann/repo"]
+	path = reimann/repo
+	url = https://github.com/aphyr/reimann
