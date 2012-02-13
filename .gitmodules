@@ -97,3 +97,6 @@
 [submodule "metis/repo"]
 	path = metis/repo
 	url = https://github.com/krobertson/metis
+[submodule "redis-cluster-monitor/repo"]
+	path = redis-cluster-monitor/repo
+	url = https://github.com/zealot2007/redis-cluster-monitor
