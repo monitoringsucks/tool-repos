@@ -100,3 +100,6 @@
 [submodule "redis-cluster-monitor/repo"]
 	path = redis-cluster-monitor/repo
 	url = https://github.com/zealot2007/redis-cluster-monitor
+[submodule "Isotope11_traffic_lights/repo"]
+	path = Isotope11_traffic_lights/repo
+	url = https://github.com/johndavid400/Isotope11_traffic_lights.git
