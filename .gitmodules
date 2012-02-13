@@ -94,3 +94,6 @@
 [submodule "reimann/repo"]
 	path = reimann/repo
 	url = https://github.com/aphyr/reimann
+[submodule "metis/repo"]
+	path = metis/repo
+	url = https://github.com/krobertson/metis
