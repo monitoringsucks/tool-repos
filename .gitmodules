@@ -103,3 +103,9 @@
 [submodule "isotope11_traffic_lights/repo"]
 	path = isotope11_traffic_lights/repo
 	url = https://github.com/johndavid400/Isotope11_traffic_lights.git
+[submodule "datadog/dd-agent"]
+	path = datadog/dd-agent
+	url = git://github.com/DataDog/dd-agent.git
+[submodule "datadog/dogapi"]
+	path = datadog/dogapi
+	url = git://github.com/DataDog/dogapi.git
