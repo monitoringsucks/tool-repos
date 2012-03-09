@@ -109,3 +109,6 @@
 [submodule "datadog/dogapi"]
 	path = datadog/dogapi
 	url = git://github.com/DataDog/dogapi.git
+[submodule "servo/repo"]
+	path = servo/repo
+	url = https://github.com/Netflix/servo.git
