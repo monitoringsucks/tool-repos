@@ -91,9 +91,9 @@
 [submodule "extrememon/extrememon-Display"]
 	path = extrememon/extrememon-Display
 	url = https://github.com/m4rienf/ExtreMon-Display
-[submodule "reimann/repo"]
-	path = reimann/repo
-	url = https://github.com/aphyr/reimann
+[submodule "riemann/repo"]
+	path = riemann/repo
+	url = https://github.com/aphyr/riemann
 [submodule "metis/repo"]
 	path = metis/repo
 	url = https://github.com/krobertson/metis
@@ -112,3 +112,6 @@
 [submodule "servo/repo"]
 	path = servo/repo
 	url = https://github.com/Netflix/servo.git
+[submodule "cepmon/repo"]
+	path = cepmon/repo
+	url = https://github.com/fetep/cepmon.git
