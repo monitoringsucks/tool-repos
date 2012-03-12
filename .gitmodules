@@ -115,3 +115,9 @@
 [submodule "cepmon/repo"]
 	path = cepmon/repo
 	url = https://github.com/fetep/cepmon.git
+[submodule "nervous/repo"]
+	path = nervous/repo
+	url = https://github.com/gflarity/nervous.git
+[submodule "response/repo"]
+	path = response/repo
+	url = https://github.com/gflarity/response
