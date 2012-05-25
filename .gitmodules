@@ -121,3 +121,6 @@
 [submodule "response/repo"]
 	path = response/repo
 	url = https://github.com/gflarity/response
+[submodule "cube/repo"]
+	path = cube/repo
+	url = https://github.com/square/cube
