@@ -124,3 +124,6 @@
 [submodule "cube/repo"]
 	path = cube/repo
 	url = https://github.com/square/cube
+[submodule "appfirst/repo"]
+	path = appfirst/repo
+	url = https://github.com/erictsai6/appfirst
