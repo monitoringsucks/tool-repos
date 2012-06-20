@@ -124,3 +124,15 @@
 [submodule "cube/repo"]
 	path = cube/repo
 	url = https://github.com/square/cube
+[submodule "datadog/dogapi-rb"]
+	path = datadog/dogapi-rb
+	url = git://github.com/DataDog/dogapi-rb.git
+[submodule "datadog/dogstatsd-python"]
+	path = datadog/dogstatsd-python
+	url = git://github.com/DataDog/dogstatsd-python.git
+[submodule "datadog/puppet-datadog-agent"]
+	path = datadog/puppet-datadog-agent
+	url = git://github.com/DataDog/puppet-datadog-agent.git
+[submodule "datadog/chef-handler-datadog"]
+	path = datadog/chef-handler-datadog
+	url = git://github.com/DataDog/chef-handler-datadog.git
