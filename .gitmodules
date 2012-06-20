@@ -136,3 +136,6 @@
 [submodule "datadog/chef-handler-datadog"]
 	path = datadog/chef-handler-datadog
 	url = https://github.com/DataDog/chef-handler-datadog.git
+[submodule "datadog/dogstatsd-ruby"]
+	path = datadog/dogstatsd-ruby
+	url = https://github.com/DataDog/dogstatd-ruby.git
