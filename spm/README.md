@@ -19,5 +19,5 @@ Currently, SPM has built-in detailed monitoring for:
 * [SenseiDB](http://sematext.com/spm/senseidb-performance-monitoring/index.html)
 * [HBase](http://sematext.com/spm/hbase-performance-monitoring/index.html)
 
-* http://github.com/sematext
-* http://twitter.com/sematext
+- http://github.com/sematext
+- http://twitter.com/sematext
