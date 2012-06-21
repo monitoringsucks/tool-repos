@@ -15,4 +15,6 @@ Notable features:
 Currently, SPM has built-in detailed reporting for Apache Solr,
 ElasticSearch, SenseiDB, and HBase.
 
-[link](http://sematex.com/spm/index.html)
+* [Scalable Performance Monitoring](http://sematext.com/spm/index.html)
+* http://github.com/sematext
+* http://twitter.com/sematext
