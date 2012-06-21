@@ -1,4 +1,5 @@
-Scalable Performance Monitoring (SPM) is the enterprise-class,
+[Scalable Performance Monitoring
+(SPM)](http://sematext.com/spm/index.html) is the enterprise-class,
 cloud-based System/OS, JVM, and Application Performance Monitoring
 SaaS.
 
@@ -12,9 +13,11 @@ Notable features:
 * no loss of precision/granularity over time
 * multiple choices of metric granularity
 
-Currently, SPM has built-in detailed reporting for Apache Solr,
-ElasticSearch, SenseiDB, and HBase.
+Currently, SPM has built-in detailed monitoring for:
+* [Apache Solr](http://sematext.com/spm/solr-performance-monitoring/index.html)
+* [ElasticSearch](http://sematext.com/spm/elasticsearch-performance-monitoring/index.html)
+* [SenseiDB](http://sematext.com/spm/senseidb-performance-monitoring/index.html)
+* [HBase](http://sematext.com/spm/hbase-performance-monitoring/index.html)
 
-* [Scalable Performance Monitoring](http://sematext.com/spm/index.html)
 * http://github.com/sematext
 * http://twitter.com/sematext
