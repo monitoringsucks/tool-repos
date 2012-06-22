@@ -124,3 +124,6 @@
 [submodule "cube/repo"]
 	path = cube/repo
 	url = https://github.com/square/cube
+[submodule "NOCtools/repo"]
+	path = NOCtools/repo
+	url = https://github.com/opensolutions/NOCtools
