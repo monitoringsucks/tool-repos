@@ -124,3 +124,6 @@
 [submodule "cube/repo"]
 	path = cube/repo
 	url = https://github.com/square/cube
+[submodule "vacuumetrix/repo"]
+	path = vacuumetrix/repo
+	url = https://github.com/99designs/vacuumetrix
