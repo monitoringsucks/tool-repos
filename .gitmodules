@@ -127,3 +127,6 @@
 [submodule "vacuumetrix/repo"]
 	path = vacuumetrix/repo
 	url = https://github.com/99designs/vacuumetrix
+[submodule "vowpal_wabbit/repo"]
+	path = vowpal_wabbit/repo
+	url = https://github.com/JohnLangford/vowpal_wabbit
