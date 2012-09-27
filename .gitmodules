@@ -130,3 +130,6 @@
 [submodule "vowpal_wabbit/repo"]
 	path = vowpal_wabbit/repo
 	url = https://github.com/JohnLangford/vowpal_wabbit
+[submodule "storm/repo"]
+	path = storm/repo
+	url = https://github.com/nathanmarz/storm
