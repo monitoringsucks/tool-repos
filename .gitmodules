@@ -133,3 +133,6 @@
 [submodule "storm/repo"]
 	path = storm/repo
 	url = https://github.com/nathanmarz/storm
+[submodule "jimi-robot/repo"]
+	path = jimi-robot/repo
+	url = https://github.com/arozhkov/jimi-robot
