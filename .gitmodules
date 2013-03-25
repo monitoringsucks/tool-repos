@@ -148,3 +148,6 @@
 [submodule "graph-explorer/repo"]
 	path = graph-explorer/repo
 	url = https://github.com/vimeo/graph-explorer.git
+[submodule "seyren/repo"]
+	path = seyren/repo
+	url = https://github.com/scobal/seyren.git
