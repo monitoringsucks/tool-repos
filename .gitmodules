@@ -142,3 +142,6 @@
 [submodule "pynag/repo"]
 	path = pynag/repo
 	url = https://github.com/pynag/pynag
+[submodule "okconfig/repo"]
+	path = okconfig/repo
+	url = https://github.com/opinkerfi/okconfig
