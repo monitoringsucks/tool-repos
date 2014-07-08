@@ -145,3 +145,6 @@
 [submodule "okconfig/repo"]
 	path = okconfig/repo
 	url = https://github.com/opinkerfi/okconfig
+[submodule "graph-explorer/repo"]
+	path = graph-explorer/repo
+	url = https://github.com/vimeo/graph-explorer.git
