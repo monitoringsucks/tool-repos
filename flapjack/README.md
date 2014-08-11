@@ -7,4 +7,4 @@ Flapjack tries to adhere to the following tenets:
 * it should be simple to set up, configure, and maintain
 * it should easily scale from a single host to multiple
 
-http://flapjack-project.com/
+http://flapjack.io/

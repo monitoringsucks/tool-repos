@@ -139,3 +139,30 @@
 [submodule "datadog/dogstatsd-ruby"]
 	path = datadog/dogstatsd-ruby
 	url = https://github.com/DataDog/dogstatd-ruby.git
+[submodule "vacuumetrix/repo"]
+	path = vacuumetrix/repo
+	url = https://github.com/99designs/vacuumetrix
+[submodule "vowpal_wabbit/repo"]
+	path = vowpal_wabbit/repo
+	url = https://github.com/JohnLangford/vowpal_wabbit
+[submodule "storm/repo"]
+	path = storm/repo
+	url = https://github.com/nathanmarz/storm
+[submodule "jimi-robot/repo"]
+	path = jimi-robot/repo
+	url = https://github.com/arozhkov/jimi-robot
+[submodule "adagios/repo"]
+	path = adagios/repo
+	url = https://github.com/opinkerfi/adagios
+[submodule "pynag/repo"]
+	path = pynag/repo
+	url = https://github.com/pynag/pynag
+[submodule "okconfig/repo"]
+	path = okconfig/repo
+	url = https://github.com/opinkerfi/okconfig
+[submodule "graph-explorer/repo"]
+	path = graph-explorer/repo
+	url = https://github.com/vimeo/graph-explorer.git
+[submodule "seyren/repo"]
+	path = seyren/repo
+	url = https://github.com/scobal/seyren.git
