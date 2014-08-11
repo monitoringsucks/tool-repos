@@ -124,6 +124,21 @@
 [submodule "cube/repo"]
 	path = cube/repo
 	url = https://github.com/square/cube
+[submodule "datadog/dogapi-rb"]
+	path = datadog/dogapi-rb
+	url = https://github.com/DataDog/dogapi-rb.git
+[submodule "datadog/dogstatsd-python"]
+	path = datadog/dogstatsd-python
+	url = https://github.com/DataDog/dogstatsd-python.git
+[submodule "datadog/puppet-datadog-agent"]
+	path = datadog/puppet-datadog-agent
+	url = https://github.com/DataDog/puppet-datadog-agent.git
+[submodule "datadog/chef-handler-datadog"]
+	path = datadog/chef-handler-datadog
+	url = https://github.com/DataDog/chef-handler-datadog.git
+[submodule "datadog/dogstatsd-ruby"]
+	path = datadog/dogstatsd-ruby
+	url = https://github.com/DataDog/dogstatd-ruby.git
 [submodule "vacuumetrix/repo"]
 	path = vacuumetrix/repo
 	url = https://github.com/99designs/vacuumetrix
