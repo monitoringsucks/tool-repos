@@ -166,3 +166,6 @@
 [submodule "seyren/repo"]
 	path = seyren/repo
 	url = https://github.com/scobal/seyren.git
+[submodule "influxdb/repo"]
+	path = influxdb/repo
+	url = https://github.com/influxdb/influxdb
