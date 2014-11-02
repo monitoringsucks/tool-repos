@@ -10,4 +10,4 @@ are pretty much free to use it however you want in whatever way.
 If you are looking for a 'front-end' to search through logstash data, Kibana
 is a good choice.
 
-Created by Jordan Sissel (@jordansissel) who now works at Loggly.
+Created by Jordan Sissel (@jordansissel)
