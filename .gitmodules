@@ -169,3 +169,45 @@
 [submodule "influxdb/repo"]
 	path = influxdb/repo
 	url = https://github.com/influxdb/influxdb
+[submodule "librato/python-librato"]
+	path = librato/python-librato
+	url = https://github.com/librato/python-librato
+[submodule "librato/librato-services"]
+	path = librato/librato-services
+	url = https://github.com/librato/librato-services
+[submodule "librato/librato-annotate"]
+	path = librato/librato-annotate
+	url = https://github.com/librato/librato-annotate
+[submodule "librato/statsd-cookbook"]
+	path = librato/statsd-cookbook
+	url = https://github.com/librato/statsd-cookbook
+[submodule "librato/papertrail-cookbook"]
+	path = librato/papertrail-cookbook
+	url = https://github.com/librato/papertrail-cookbook
+[submodule "librato/dropwizard-librato"]
+	path = librato/dropwizard-librato
+	url = https://github.com/librato/dropwizard-librato
+[submodule "librato/metrics-librato"]
+	path = librato/metrics-librato
+	url = https://github.com/librato/metrics-librato
+[submodule "librato/statsd-librato-backend"]
+	path = librato/statsd-librato-backend
+	url = https://github.com/librato/statsd-librato-backend
+[submodule "librato/librato-metrics"]
+	path = librato/librato-metrics
+	url = https://github.com/librato/librato-metrics
+[submodule "librato/librato-java"]
+	path = librato/librato-java
+	url = https://github.com/librato/librato-java
+[submodule "librato/librato-rails"]
+	path = librato/librato-rails
+	url = https://github.com/librato/librato-rails
+[submodule "librato/librato-rack"]
+	path = librato/librato-rack
+	url = https://github.com/librato/librato-rack
+[submodule "librato/librato-storm-kafka"]
+	path = librato/librato-storm-kafka
+	url = https://github.com/librato/librato-storm-kafka
+[submodule "librato/librato-logreporter"]
+	path = librato/librato-logreporter
+	url = https://github.com/librato/librato-logreporter
