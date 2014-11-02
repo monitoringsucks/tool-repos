@@ -1,1 +1,7 @@
+Darshan is designed to capture an accurate picture of application I/O behavior, including properties such as patterns of access within files, with minimum overhead.  The name is taken from a Sanskrit word for “sight” or “vision”.
+
+Darshan can be used to investigate and tune the I/O behavior of complex HPC applications.  In addition, Darshan’s lightweight design makes it suitable for full time deployment for workload characterization of large systems.  We hope that such studies will help the storage research community to better serve the needs of scientific computing.
+
+Darshan was originally developed on the IBM Blue Gene series of computers deployed at the Argonne Leadership Computing Facility, but it is portable across a wide variety of platforms include the Cray XE6, Cray XC30, and Linux clusters.  Darshan routinely instruments jobs using up to 786,432 compute cores on the Mira system at ALCF.
+
 http://www.mcs.anl.gov/research/projects/darshan/
