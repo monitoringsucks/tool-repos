@@ -211,3 +211,6 @@
 [submodule "librato/librato-logreporter"]
 	path = librato/librato-logreporter
 	url = https://github.com/librato/librato-logreporter
+[submodule "Monitorix/repo"]
+	path = Monitorix/repo
+	url = https://github.com/mikaku/Monitorix
