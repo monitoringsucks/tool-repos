@@ -214,3 +214,6 @@
 [submodule "Monitorix/repo"]
 	path = Monitorix/repo
 	url = https://github.com/mikaku/Monitorix
+[submodule "cavalieri/repo"]
+	path = cavalieri/repo
+	url = https://github.com/juruen/cavalieri
