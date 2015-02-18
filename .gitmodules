@@ -217,3 +217,9 @@
 [submodule "cavalieri/repo"]
 	path = cavalieri/repo
 	url = https://github.com/juruen/cavalieri
+[submodule "opserver/repo"]
+	path = opserver/repo
+	url = https://github.com/opserver/Opserver
+[submodule "librenms/repo"]
+	path = librenms/repo
+	url = https://github.com/librenms/librenms.git
