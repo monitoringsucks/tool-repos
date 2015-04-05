@@ -226,3 +226,6 @@
 [submodule "lnav/repo"]
 	path = lnav/repo
 	url = https://github.com/tstack/lnav
+[submodule "sysdig/repo"]
+	path = sysdig/repo
+	url = https://github.com/draios/sysdig
