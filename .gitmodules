@@ -223,3 +223,9 @@
 [submodule "librenms/repo"]
 	path = librenms/repo
 	url = https://github.com/librenms/librenms.git
+[submodule "lnav/lnav"]
+	path = lnav/lnav
+	url = https://github.com/tstack/lnav
+[submodule "lnav/repo"]
+	path = lnav/repo
+	url = https://github.com/tstack/lnav
