@@ -235,3 +235,6 @@
 [submodule "oculus/repo"]
 	path = oculus/repo
 	url = https://github.com/etsy/oculus
+[submodule "consul/repo"]
+	path = consul/repo
+	url = https://github.com/hashicorp/consul
