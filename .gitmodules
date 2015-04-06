@@ -229,3 +229,6 @@
 [submodule "sysdig/repo"]
 	path = sysdig/repo
 	url = https://github.com/draios/sysdig
+[submodule "skyline/repo"]
+	path = skyline/repo
+	url = https://github.com/etsy/skyline
