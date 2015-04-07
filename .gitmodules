@@ -226,3 +226,15 @@
 [submodule "lnav/repo"]
 	path = lnav/repo
 	url = https://github.com/tstack/lnav
+[submodule "sysdig/repo"]
+	path = sysdig/repo
+	url = https://github.com/draios/sysdig
+[submodule "skyline/repo"]
+	path = skyline/repo
+	url = https://github.com/etsy/skyline
+[submodule "oculus/repo"]
+	path = oculus/repo
+	url = https://github.com/etsy/oculus
+[submodule "consul/repo"]
+	path = consul/repo
+	url = https://github.com/hashicorp/consul
