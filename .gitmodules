@@ -229,3 +229,6 @@
 [submodule "sysdig/repo"]
 	path = sysdig/repo
 	url = https://github.com/draios/sysdig
+[submodule "glances/repo"]
+	path = glances/repo
+	url = https://github.com/nicolargo/glances
