@@ -238,3 +238,6 @@
 [submodule "consul/repo"]
 	path = consul/repo
 	url = https://github.com/hashicorp/consul
+[submodule "glances/repo"]
+	path = glances/repo
+	url = https://github.com/nicolargo/glances
