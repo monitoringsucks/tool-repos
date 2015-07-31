@@ -241,3 +241,6 @@
 [submodule "glances/repo"]
 	path = glances/repo
 	url = https://github.com/nicolargo/glances
+[submodule "restlos/repo"]
+	path = restlos/repo
+	url = https://github.com/Crapworks/RESTlos
