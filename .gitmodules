@@ -244,3 +244,6 @@
 [submodule "restlos/repo"]
 	path = restlos/repo
 	url = https://github.com/Crapworks/RESTlos
+[submodule "graphiteworker/repo"]
+	path = graphiteworker/repo
+	url = https://github.com/Crapworks/graphiteworker.git
