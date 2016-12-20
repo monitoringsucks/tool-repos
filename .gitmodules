@@ -247,3 +247,6 @@
 [submodule "graphiteworker/repo"]
 	path = graphiteworker/repo
 	url = https://github.com/Crapworks/graphiteworker.git
+[submodule "plumd/repo"]
+	path = plumd/repo
+	url = https://github.com/s4z/plumd
