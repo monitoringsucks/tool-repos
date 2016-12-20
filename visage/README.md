@@ -1,0 +1,5 @@
+# Visage
+
+[Visage](https://github.com/auxesis/visage) is a web interface for viewing collectd statistics.
+
+It also provides a JSON interface onto collectd's RRD data, giving you an easy way to mash up the data.
