@@ -250,3 +250,6 @@
 [submodule "plumd/repo"]
 	path = plumd/repo
 	url = https://github.com/s4z/plumd
+[submodule "netdata/repo"]
+	path = netdata/repo
+	url = https://github.com/firehol/netdata
