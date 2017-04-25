@@ -253,3 +253,6 @@
 [submodule "netdata/repo"]
 	path = netdata/repo
 	url = https://github.com/firehol/netdata
+[submodule "deadman-check/repo"]
+	path = deadman-check/repo
+	url = https://github.com/sepulworld/deadman-check
